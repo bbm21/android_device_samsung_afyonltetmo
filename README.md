@@ -17,5 +17,5 @@ Camera  | 5 MP, 2592 х 1944 pixels
 
 ![Galaxy Avant](http://handytechplus.com/wp-content/uploads/2014/08/Samsung-Galaxy-Avant-.jpg "Galaxy Avant")
 
-This branch is for building CyanogenMod 12.1 Firmware.
+This branch is for building LineageOS 14.1 Firmware.
 
